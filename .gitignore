@@ -1,0 +1,6 @@
+# ignore .in-files
+*.in
+# ignore .out-files
+*.out
+# ignore .pyc-files
+*.pyc
